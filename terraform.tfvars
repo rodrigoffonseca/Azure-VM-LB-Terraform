@@ -1,5 +1,5 @@
 location = "westus"
 prefix = "foca"
 adminname = "rfonseca"
-adminpwd = "P@ssword012345"
+adminpwd = "ENTERYOURADMINPASSWOD"
 scripturl = "https://safocainfra.blob.core.windows.net/customscript/apache-install.sh"
